@@ -1,0 +1,25 @@
+body{
+    margin: 0
+
+}
+h1{
+    color:blue;
+    text-align: center;
+    font-weight: bold;
+
+}
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+header img {
+    width: 6vw;
+}
+
+aside {
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
